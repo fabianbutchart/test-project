@@ -1,4 +1,5 @@
 from flask import Flask, redirect, render_template, request
+#need to remember to add styling here
 
 app = Flask(__name__)
 tasks = []
